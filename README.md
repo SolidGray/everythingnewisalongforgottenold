@@ -4,8 +4,8 @@ Go to
 - [Header 1](#Header-1)
 - [Header 2](#Header-2)
 - [Header 3](#Header-3)
-- [Header 3](#Header-4)
-- [Header 3](#Header5)
+- [Header 4](#Header-4)
+- [Header 5](#Header5)
 
 ## [Header 1](#Header-1)
 
